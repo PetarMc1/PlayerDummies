@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a bug report.
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 
@@ -17,7 +17,7 @@ Steps to reproduce the behavior:
 
 **Server info**
 Server Type - Paper/Spigot
-Server Version - 
+Minecraft Version - 
 NPC Plugin - 
 PlayerDummies Version - 
 
